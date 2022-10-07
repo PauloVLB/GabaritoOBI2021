@@ -16,6 +16,8 @@
 <Se possivel insira uma breve explicacao da solucao>
 
 ## Cifra da Nlogônia
-- Solução 1 - [Autor]() <Insira o link para o seu github nos parenteses>
+- Solução 1 - [Autor](https://github.com/PauloVLB) <Insira o link para o seu github nos parenteses>
 
+    Cria previamente um mapa com todos os possíveis mapeamentos de cada letra. Após isso, apenas percorre a entrada mostrando o resultado do mapeamento para cada letra.
+    
 <Se possivel insira uma breve explicacao da solucao>
