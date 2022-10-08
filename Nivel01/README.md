@@ -1,9 +1,9 @@
 # Soluções do Nível 01
 
 ## Torneio de Tênis
-- Solução 1 - [Autor]() <Insira o link para o seu github nos parenteses>
+- Solução 1 - [Autor](https://github.com/MaduSSouza) <Insira o link para o seu github nos parenteses>
 
-<Se possivel insira uma breve explicacao da solucao>
+    A partir dos resultados das partidas do jogador, contabilizamos quais foram as vitórias para identificar o grupo em que o participante será colocado.
 
 ## Tempo de Resposta
 - Solução 1 - [Autor]() <Insira o link para o seu github nos parenteses>
