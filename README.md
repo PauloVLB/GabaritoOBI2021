@@ -3,6 +3,8 @@ Repositório com Soluções da Olimpíada Brasileira de Informática do ano de 2
 
 ## Como contribuir:
 
+-  Veja também nosso [Guia de Contribuição](https://github.com/PauloVLB/GabaritoOBI2021/blob/main/CONTRIBUTING.md).
+
 1. Veja nossas [Issues](https://github.com/PauloVLB/GabaritoOBI2021/issues);
 2. Clone o projeto ou crie um fork;
 3. Crie uma nova branch para fazer suas alterações;
