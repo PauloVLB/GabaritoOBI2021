@@ -13,9 +13,9 @@
 <Se possivel insira uma breve explicacao da solucao>
 
 ## Tempo de Resposta
-- Solução 1 - [Autor]() <Insira o link para o seu github nos parenteses>
+- Solução 1 - [Autor](https://github.com/RickFqt) <Insira o link para o seu github nos parenteses>
 
-<Se possivel insira uma breve explicacao da solucao>
+    Armazenamos em três vetores informações sobre o tempo do último envio de mensagem do amigo, o estado da mensagem do amigo (esperando resposta ou já respondida), e o tempo total que cada um esperou. Contabilizamos, ao longo do programa, o tempo em que cada mensagem foi enviada ou recebida e, ao final, informamos os resultados para cada amigo. 
 
 ## Baralho
 - Solução 1 - [Autor]() <Insira o link para o seu github nos parenteses>
