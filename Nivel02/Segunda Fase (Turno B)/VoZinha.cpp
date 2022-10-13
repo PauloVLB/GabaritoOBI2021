@@ -1,6 +1,5 @@
 #include <bits/stdc++.h> // Biblioteca com a maioria dos métodos necessários
 using namespace std;
-#define AB cout << "ABACATEEEE" << endl;
 #define int long long int
 
 int32_t main(){
