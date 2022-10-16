@@ -18,6 +18,6 @@
     Armazenamos em três vetores informações sobre o tempo do último envio de mensagem do amigo, o estado da mensagem do amigo (esperando resposta ou já respondida), e o tempo total que cada um esperou. Contabilizamos, ao longo do programa, o tempo em que cada mensagem foi enviada ou recebida e, ao final, informamos os resultados para cada amigo. 
 
 ## [Baralho](https://neps.academy/br/exercise/1489)
-- Solução 1 - [Autor]() <Insira o link para o seu github nos parenteses>
+- Solução 1 - [Autor](https://github.com/tiago-rodrigues1) <Insira o link para o seu github nos parenteses>
 
-<Se possivel insira uma breve explicacao da solucao>
+    Separa o naipe dos números das cartas; cada naipe é uma chave para um map que contém um vector que recebe o número das cartas não repetidas. No final, faz uma iteração para cada naipe e imprime quantas cartas faltam ou se alguma foi repetida.
