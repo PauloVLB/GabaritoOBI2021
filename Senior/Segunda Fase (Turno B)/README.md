@@ -18,6 +18,6 @@ P * Q = N. Assim, vamos sempre procurar por anagramas que seu tamanho e a quanti
 tamanho da palavra.
 
 ## [Senha da Vó Zinha](https://neps.academy/br/exercise/1727)
-- Solução 1 - [Autor]() <Insira o link para o seu github nos parenteses>
+- Solução 1 - [Autor](https://github.com/RickFqt) <Insira o link para o seu github nos parenteses>
 
-<Se possivel insira uma breve explicacao da solucao>
+    Para descobrir cada letra que deve ser substituída em cada "#" da senha, mudamos a base do número "P - 1" para a base "K". Assim, cada borrão será substituído pelo n-ésimo caracter da palavra "i", sendo "n" o i-ésimo dígito correspondente do número "P - 1" em base "K".
