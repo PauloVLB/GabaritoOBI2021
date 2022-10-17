@@ -6,7 +6,7 @@
 <Se possivel insira uma breve explicacao da solucao>
 
 ## [Pangrama](https://neps.academy/br/exercise/1654)
-- Solução 1 - [Autor]() <Insira o link para o seu github nos parenteses>
+- Solução 1 - [Autor](https://github.com/JonathasVeras) <Insira o link para o seu github nos parenteses>
 
 <Se possivel insira uma breve explicacao da solucao>
 
