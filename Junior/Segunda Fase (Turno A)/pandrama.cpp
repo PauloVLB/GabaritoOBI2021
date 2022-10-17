@@ -11,8 +11,9 @@ int main(){
     getline(cin,frase);
     for (int i = 0; i < frase.length(); i++)
     {
-        
+        pontuacao(frase[i], pontos, contador, pangrama);
     }
+    cout << pontos << endl;
     
     cout << frase.length() << endl;
     return 0;
