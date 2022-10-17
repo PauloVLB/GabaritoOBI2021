@@ -8,7 +8,8 @@
 ## [Pangrama](https://neps.academy/br/exercise/1654)
 - Solução 1 - [Autor](https://github.com/JonathasVeras) <Insira o link para o seu github nos parenteses>
 
-<Se possivel insira uma breve explicacao da solucao>
+Para fazer todas as comparações necessárias eu criei uma array que continha todas as letras válidas do pangrama e uma array auxiliar que marcaria quais letras já tinham sido checadas. Assim eu percorro toda a string capturada do user e checo letra por letra, caso a string faça uso de todas as letras estabelecidas pelo pandrama, a saída é 'S', caso não a saída é 'N'.
+
 
 ## [Robô](https://neps.academy/br/exercise/1655)
 - Solução 1 - [Autor]() <Insira o link para o seu github nos parenteses>

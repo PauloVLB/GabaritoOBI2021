@@ -31,13 +31,20 @@ int main(){
 void pontuacao(char elemento, int &pontuacao, int contador[], char* pangrama){
     for (int i = 0; i < 23; i++)
     {
-        if(contador[i]==0)
+        if(contador[i] == 1 && contador[i] == elemento)
         {
-            if (elemento == pangrama[i])
+            break;
+        }
+        else if (contador[i] != 1)
+        {
+            if(contador[i]==0)
             {
-                contador[i] = 1;
-                pontuacao++;
-                break;
+                if (elemento == pangrama[i])
+                {
+                    contador[i] = 1;
+                    pontuacao++;
+                    break;
+                }
             }
         }
         
