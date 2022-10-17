@@ -13,9 +13,19 @@ int main(){
     {
         pontuacao(frase[i], pontos, contador, pangrama);
     }
-    cout << pontos << endl;
+    // cout << pontos << endl;
     
-    cout << frase.length() << endl;
+    // cout << frase.length() << endl;
+    if (pontos == 23){
+        cout << "S" << endl;
+    }
+    else{
+        cout << "N" << endl;
+    }
+    {
+        /* code */
+    }
+    
     return 0;
 }
 void pontuacao(char elemento, int &pontuacao, int contador[], char* pangrama){
