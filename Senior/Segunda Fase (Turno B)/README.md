@@ -1,7 +1,8 @@
 # Soluções do Nível Sênior
 
 ## [Mínimo e máximo](https://neps.academy/br/exercise/1728)
-- Solução 1 - [Autor]() <Insira o link para o seu github nos parenteses>
+- Solução 1 - [Autor](https://github.com/DanteAugusto) <Insira o link para o seu github nos parenteses>
+O segredo dessa questão é receber o mínimo e máximo como string, saber a numeração na tabela ASCII ('0' - 48 = 0, '1' - 48 = 1 e assim por diante) e saber mudas os números, que agora são strings, de forma adequada para encontrar o valor desejado.
 
 <Se possivel insira uma breve explicacao da solucao>
 
